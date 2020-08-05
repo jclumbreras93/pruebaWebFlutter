@@ -1,3 +1,4 @@
 # pruebaWebFlutter
 
-![](assets/web.png)
+![imagen](assets/web.png)
+assets/web.png
