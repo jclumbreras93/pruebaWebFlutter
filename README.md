@@ -1,1 +1,3 @@
 # pruebaWebFlutter
+
+![](assets/web.png)
